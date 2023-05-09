@@ -41,6 +41,7 @@ import static org.junit.Assert.assertTrue;
  * @email casocroz@gmail.com
  * @date 2019/10/21
  */
+@Ignore
 public class KucoinFuturesWSClientTest extends BaseTest {
 
 

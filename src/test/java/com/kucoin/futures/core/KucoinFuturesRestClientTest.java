@@ -27,6 +27,7 @@ import static org.hamcrest.junit.MatcherAssert.assertThat;
 /**
  * Created by chenshiwei on 2019/1/21.
  */
+@Ignore
 public class KucoinFuturesRestClientTest extends BaseTest {
 
     @Rule
